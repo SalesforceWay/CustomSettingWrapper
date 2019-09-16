@@ -1,6 +1,9 @@
 # Apex - create a wrapper for custom settings
 
-It is important to have an intermediate layer between Apex and custom settings. Why? Check the video below.
+It is important to have an intermediate layer between Apex and custom settings.
+
+Why? Check the video below.
+
 This repo serves as a sample code.
 
 ## Video for the context

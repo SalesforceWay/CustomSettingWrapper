@@ -1,0 +1,23 @@
+{
+  "name": "settingswrapper",
+  "version": "1.0.0",
+  "description": "It is important to have an intermediate layer between Apex and custom settings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalesforceWay/CustomSettingWrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SalesforceWay/CustomSettingWrapper/issues"
+  },
+  "homepage": "https://github.com/SalesforceWay/CustomSettingWrapper#readme",
+  "devDependencies": {
+    "prettier": "1.18.2",
+    "prettier-plugin-apex": "1.0.0-rc.6"
+  }
+}

@@ -26,7 +26,7 @@ public without sharing class SettingWrapper {
   }
 
   private static AppConfig__c createDefaultConfig() {
-    setting = new Appconfig__c();
+    Appconfig__c setting = new Appconfig__c();
     setting.name = 'default';
     setting.diagnosisEnabled__c = true;
     return setting;
